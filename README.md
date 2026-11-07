@@ -4,7 +4,7 @@
 
 </div>
 
-# 👋 Hi, I'm Alex Chen!
+# 👋 Hi, I'm Mani Rabie!
 
 > Building beautiful, performant web experiences
 
